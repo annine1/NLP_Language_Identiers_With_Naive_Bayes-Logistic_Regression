@@ -1,4 +1,4 @@
-# NLP_Language_Identiers_With_Naive_Bayes-Logistic_Regression
+# NLP: Language Identiers With Naive Bayes and Logistic Regression
 In this project , we implement Language Identifers (LID) by using two Methods:
 - Naive Bayes
 - Logistic regression
