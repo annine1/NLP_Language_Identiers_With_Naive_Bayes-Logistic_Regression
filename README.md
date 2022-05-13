@@ -1,4 +1,5 @@
-# NLP Lab 1: Language Identifer based on Naive Bayes and Logistic Regression
+ ## NLP
+# Lab 1: Language Identifer based on Naive Bayes and Logistic Regression
 In this project , we implement a Language Identifer (LID) by using two Methods:
 - Naive Bayes
 - Logistic regression
