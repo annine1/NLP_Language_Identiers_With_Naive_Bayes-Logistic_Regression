@@ -12,3 +12,6 @@ For the Logistic regression, we got the score of 93.3%
 - In this lab, we use K-nearest neighbors to find the neighbore corresponding to a given word.
 - After, we translate the english word to a french word by doing mapping
 - We got the accuracy of 64%.
+# Lab 3: n_gram models
+- Perplexity
+- Stupid backoff
